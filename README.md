@@ -23,8 +23,8 @@ Uma janela do seu navegador deverá abrir no http://localhost:3000/ caso não fu
 
 
 Integrantes do Grupo:
-Marlon Mion Bohn
-Otávio Luiz de Macedo Chagas
-Daniel Passos Valadares
-Daniel Sanchez Pereira
-Danielly Alcina Freitas de Sena
+- Marlon Mion Bohn
+- Otávio Luiz de Macedo Chagas
+- Daniel Passos Valadares
+- Daniel Sanchez Pereira
+- Danielly Alcina Freitas de Sena
