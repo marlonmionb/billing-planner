@@ -2,6 +2,12 @@ Este projeto foi desenvolvido entre o grupo 10 da disciplina de Projeto Integrad
 
 O Objetivo desta aplicação é ajudar pessoas a organizarem suas finanças de forma simples e eficiente. Optamos pela escolha da lingua inglesa na aplicação facilitando assim que o aplicativo seja utilizado por pessoas ao redor do mundo.
 
+As tecnologias utilizadas foram:
+- Javascript
+- React
+- Bootstrap
+- Material UI
+
 Para instalação do projeto é necessário que estejam instalados o Git, o Node (de preferência a versão estável mais recente) e o gerenciador de pacotes NPM.
 
 Primeiramente é necessário clonar o projeto em uma pasta local com o comando no terminal:
